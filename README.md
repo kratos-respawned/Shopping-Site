@@ -1,1 +1,1 @@
-# This is a homepage of a Shopping Site that I created just for practicing some CSS
+# I created a homepage of a shopping site using CSS
